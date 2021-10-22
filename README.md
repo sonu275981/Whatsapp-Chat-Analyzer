@@ -38,7 +38,7 @@ You need Python 3.6 and above, its dependency packages, flask and pandas install
  $ make run
 ```
 
-Service will be running on port 8000 - http://localhost:8501/    
+Service will be running on port 8501 - http://localhost:8501/    
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
