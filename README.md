@@ -13,7 +13,7 @@ Link :- https://whatsappchatanalyzerr.herokuapp.com/
 - View your analysis on the dashboard
 
 ### Known Issues:
-- Please use only 24 hour Time Format WhatsApp chats and  #### without media.
+- Please use only 24 hour Time Format WhatsApp chats and without media.
 - There’s no way that it will work for everyone because I’ve found that depending on your OS and version of Whatsapp, the format of text file lines varies wildly. I’m sorry if it doesn’t work for you.
 
 ### Tech:
